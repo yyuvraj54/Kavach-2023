@@ -4,6 +4,7 @@ class Variables:
     appHeight=600
     appBackgroundTheme='white'
     appForegroundTheme='#2fccaf'
+    appBackgroundCompliment = '#3700b3'
 
 class fontstyle:
     titleFontSize=44
