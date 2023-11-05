@@ -340,6 +340,5 @@ app.geometry(f'{appWidth}x{appHeight}')
 app.maxsize(appWidth,appHeight)
 app.minsize(appWidth-200,appHeight)
 app.title('PMS')    
-print("App Running") #indication
-print("Added anothrt line")
+
 app.mainloop()
